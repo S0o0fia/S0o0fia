@@ -64,7 +64,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S0o0fia&show_icons=true&theme=radical)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S0o0fia&show_icons=true&theme=radical)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=S0o0fia&theme=dracula&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
 
