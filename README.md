@@ -75,7 +75,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 ---
-### :page_facing_up: my CV : 
+### :page_facing_up: My Resume : 
 <a href="https://drive.google.com/file/d/1aO8IBnIR5xsDrddvM_glKURSF9acZHz8/view?usp=sharing" target="_blank">My Resume</a>
 
 
