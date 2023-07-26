@@ -18,3 +18,14 @@
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=S0o0fia&style=flat-square&color=blue" alt=""/>
 </div>
+
+
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+
+<div align="center">
+  <img src="https://media4.giphy.com/media/umYMU8G2ixG5mJBDo5/cid=ecf05e47ag6x7x7wtw86ei2ydz6hdkrv43xslv3hd4qm8c40&ep=v1_gifs_related&rid=giphy.gif&ct=g/giphy.gif" width="600" height="500"/>
+</div>
