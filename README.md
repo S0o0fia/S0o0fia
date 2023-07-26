@@ -29,3 +29,13 @@
 <div align="center">
   <img src="https://media4.giphy.com/media/umYMU8G2ixG5mJBDo5/cid=ecf05e47ag6x7x7wtw86ei2ydz6hdkrv43xslv3hd4qm8c40&ep=v1_gifs_related&rid=giphy.gif&ct=g/giphy.gif" width="600" height="500"/>
 </div>
+
+### :woman_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I make some handmade stuff and read tech articles, novels , and psychological books.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/safaa-kamel-000311145/)
